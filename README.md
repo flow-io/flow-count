@@ -4,6 +4,15 @@ flow-count
 Writable stream which returns the total number of streamed data.
 
 
+## Installation
+
+_flow-count_ is an NPM module. To install,
+
+``` bash
+$ npm install flow-count
+```
+
+
 ## Examples
 
 ``` javascript
