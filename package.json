@@ -32,7 +32,8 @@
     "count",
     "total",
     "reduce",
-    "statistics"
+    "statistics",
+    "stats"
   ],
   "bugs": {
     "url": "https://github.com/kgryte/flow-count/issues"
