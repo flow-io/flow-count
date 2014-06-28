@@ -1,7 +1,7 @@
 {
   "name": "flow-count",
   "version": "0.0.1",
-  "description": "Writable stream which returns the total number of streamed data.",
+  "description": "Transform stream which returns the total number of streamed data.",
   "author": {
     "name": "Athan Reines",
     "email": "athan@nodeprime.com"
