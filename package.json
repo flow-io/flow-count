@@ -1,6 +1,6 @@
 {
   "name": "flow-count",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transform stream which returns the total number of streamed data.",
   "author": {
     "name": "Athan Reines",
