@@ -1,7 +1,7 @@
 flow-count
 ==========
 
-Writable stream which returns the total number of streamed data.
+Transform stream which returns the total number of streamed data.
 
 
 ## Installation
