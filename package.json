@@ -18,7 +18,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kgryte/flow-count.git"
+    "url": "git://github.com/flow-io/flow-count.git"
   },
   "keywords": [
     "stream",
@@ -35,7 +35,7 @@
     "stats"
   ],
   "bugs": {
-    "url": "https://github.com/kgryte/flow-count/issues"
+    "url": "https://github.com/flow-io/flow-count/issues"
   },
   "dependencies": {
     "flow-reduce": "~0.0.0"
